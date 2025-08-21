@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Jarrett Markman 👋
 
-<!--
-**jarrett-markman/jarrett-markman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a student in the University of Virginia's MSDS class of 2026. I recently graduated from Syracuse University, where I received a Bachelor of Science in Sport Analytics.
 
-Here are some ideas to get you started:
+I’m extremely passionate about data science, especially when it involves **machine learning**, **statistics**, and **programming**. Whether it’s analyzing data (across multiple sports), predicting various outcomes (such as the results of a presidential election), or building interactive tools (for various forms of data analysis and visualization), I love using data to solve different problems and create clear stories and insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mostly work in **Python**, **R**, and **SQL**, and I’m particularly interested in projects that sit at the intersection of **sports**, **politics**, **health**, and **media**.
+
+---
+
+## 🏆 Featured Projects
+
+### 🏈 Big Data Bowl Submissions  
+- [2024 Submission – Tackling the Numbers](https://www.kaggle.com/code/jarrettmarkman/tackling-the-numbers)  
+- [2025 Submission – Showing Your Hand](https://www.kaggle.com/code/jarrettmarkman/showing-your-hand)
+
+### 🎾 Tennis Projects  
+- [Serve Analysis in the ATP Tour](https://rpubs.com/jlmanalytics/1006893)  
+- [Predicting Tennis Rankings](https://github.com/jarrett-markman/predicting_tennis_rankings)  
+- [Tennis Scoring Analysis](https://github.com/jarrett-markman/tennis_scoring_analysis)  
+- [Driving List Optimization](https://github.com/jarrett-markman/driving_list_optim)  
+- [Shiny App – ATP/WTA Performance (2023)](https://jarrett-markman.shinyapps.io/Player-Statistical-Performance/)
+
+### 🗳 [Forecasting the 2024 Presidential Election](https://jarrettmarkman.substack.com/p/forecasting-the-2024-presidential)
+
+---
+
+## 📬 Get in Touch
+
+- 📧 Email: [gzt8na@virginia.edu](mailto:gzt8na@virginia.edu)  
+- 💼 LinkedIn: [Jarrett Markman](https://www.linkedin.com/in/jarrett-markman/)
+
+---
+
+## Outside of Data
+
+When I’m not coding or building models, you’ll probably find me:
+- 🎾 On the tennis court (or watching tennis) 
+- ♟️ Playing chess
+- 🌲 Exploring nature
