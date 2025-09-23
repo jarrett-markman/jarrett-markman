@@ -48,3 +48,4 @@ When I’m not coding or building models, you’ll probably find me:
 - 🎾 On the tennis court (or watching tennis) 
 - ♟️ Playing chess
 - 🌲 Exploring nature
+- 🍳 Cooking
