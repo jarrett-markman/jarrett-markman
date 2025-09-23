@@ -25,6 +25,16 @@ I mostly work in **Python**, **R**, and **SQL**, and I’m particularly interest
 
 ---
 
+## GitHub Stats:
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jarrett-markman&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jarrett-markman&layout=compact&theme=tokyonight)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jarrett-markman&theme=tokyo-night)
+
+---
+
 ## 📬 Get in Touch
 
 - 📧 Email: [gzt8na@virginia.edu](mailto:gzt8na@virginia.edu)  
