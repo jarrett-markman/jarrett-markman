@@ -18,7 +18,6 @@ I mostly work in **Python**, **R**, and **SQL**, and I’m particularly interest
 - [Serve Analysis in the ATP Tour](https://rpubs.com/jlmanalytics/1006893)  
 - [Predicting Tennis Rankings](https://github.com/jarrett-markman/predicting_tennis_rankings)  
 - [Tennis Scoring Analysis](https://github.com/jarrett-markman/tennis_scoring_analysis)  
-- [Driving List Optimization](https://github.com/jarrett-markman/driving_list_optim)  
 - [Shiny App – ATP/WTA Performance (2023)](https://jarrett-markman.shinyapps.io/Player-Statistical-Performance/)
 
 ### 🗳 [Forecasting the 2024 Presidential Election](https://jarrettmarkman.substack.com/p/forecasting-the-2024-presidential)
