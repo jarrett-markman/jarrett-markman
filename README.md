@@ -1,6 +1,6 @@
 # Hi, I'm Jarrett Markman 👋
 
-I am a recent graduate in the University of Virginia's MSDS class of 2026. Prior to that, I graduated from Syracuse University in 2025, where I received a Bachelor of Science in Sport Analytics.
+I am a recent graduate from the University of Virginia's MSDS program. Prior to that, I graduated from Syracuse University, where I received a Bachelor of Science in Sport Analytics.
 
 I’m extremely passionate about data science, especially when it involves **machine learning**, **statistics**, and **programming**. Whether it’s analyzing data (across multiple sports), predicting various outcomes (such as the results of a presidential election), or building interactive tools (for various forms of data analysis and visualization), I love using data to solve different problems and create clear stories and insights.
 
